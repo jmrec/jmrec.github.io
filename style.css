@@ -4,6 +4,12 @@ body {
 div {
     margin: 8px;
 }
+hr {
+    padding: 5px;
+    margin: 10px;
+    border-color: black;
+    background-color: #ab618b;
+}
 .timeline_event {
 
     border-width: 2px;
@@ -26,10 +32,4 @@ div {
     border-style: solid;
 
     background-color: rgb(219, 203, 218);
-}
-hr {
-    padding: 5px;
-    margin: 10px;
-    border-color: black;
-    background-color: #ab618b;
 }

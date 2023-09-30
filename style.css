@@ -1,6 +1,6 @@
 body {
     background-color: beige;
-    background-image: url("/pics/background.jpg");
+    background-image: url("https://github.com/jmrec/jmrec.github.io/blob/main/pics/background.jpg");
 }
 div {
     margin: 8px;

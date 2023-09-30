@@ -1,32 +1,31 @@
 body {
     background-color: beige;
-    background-image: url("https://github.com/jmrec/jmrec.github.io/blob/main/pics/background.jpg");
 }
 div {
     margin: 8px;
 }
-div.timeline_bus {
-    height: 1260px;
-    width: 15px;
-
-    background-color: pink;
-}
-div.timeline_event {
+.timeline_event {
 
     border-width: 2px;
     border-style: solid;
 
-    align: center;
+    padding: 8px;
 
     display: inline-block;
     background-color: powderblue;
 }
-span.sub_menu {
+.sub_menu {
     border-width: 1.5px;
     border-style: solid;
     border-color: black;
     margin: 2px;
     padding: 3px;
+}
+.per_year {
+    border-width: 2px;
+    border-style: solid;
+
+    background-color: rgb(219, 203, 218);
 }
 hr {
     padding: 5px;

@@ -1,5 +1,8 @@
 body {
     background-color: beige;
+
+    font-family: "Cambria", "Times New Roman", serif;
+    font-size: 100%;
 }
 div {
     margin: 8px;
@@ -9,6 +12,10 @@ hr {
     margin: 10px;
     border-color: black;
     background-color: #ab618b;
+}
+img {
+    max-height: 500px;
+    max-width: 500px;
 }
 .timeline_event {
 
@@ -30,6 +37,8 @@ hr {
 .per_year {
     border-width: 2px;
     border-style: solid;
+    
+    margin-bottom: 30px;
 
     background-color: rgb(219, 203, 218);
 }

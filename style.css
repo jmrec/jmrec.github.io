@@ -33,6 +33,12 @@ img {
     margin: 2px;
     padding: 3px;
 }
+.description {
+    display: none;
+}
+img:hover + .description {
+    display: block;
+}
 .per_year {
     border-width: 2px;
     border-style: solid;

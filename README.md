@@ -1,3 +1,3 @@
-Portfolio website for CC7 (Computing Fundamentals).
+# Portfolio website
 
-S.Y. 23-24
+CC7 (Computing Fundamentals), S.Y. 23-24
